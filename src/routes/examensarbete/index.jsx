@@ -21,7 +21,7 @@ function Examensarbete() {
       <Hero>
         <Image src="public/treebula-2.png" alt="Bild på Treebulas nya skogsapp" />
         <Heading1>Treebula</Heading1>
-        <Text>Att designa en ny digital tjänst för skogsägare – Treebulas nya prenumerationsprodukt</Text>
+        <Text>Att designa en ny digital tjänst för skogsägare</Text>
         <Chips>
           {chips.map((chip) => (
             <Chip key={chip}>{chip}</Chip>

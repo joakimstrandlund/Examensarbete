@@ -18,9 +18,9 @@ function Index() {
       <Container>
         <Heading1>Joakims Examensarbete</Heading1>
         <Text>
-          Här kan du läsa om mitt examensarbete där jag, som UX-designer, hjälpte till att utveckla en ny digital prenumerationstjänst för skogsägare på
-          Treebula. Arbetet fokuserar på hur användarcentrerad design tillämpas i en agil och iterativ process för att skapa en intuitiv tjänst som ger
-          skogsägare – särskilt den äldre målgruppen – en bättre överblick över sin skog, direkt i mobiltelefonen.
+          Här kan man läsa om mitt examensarbete där jag som UX-designer, hjälpte till att utveckla en ny digital tjänst för skogsägare på Treebula. Arbetet
+          fokuserar på hur användarcentrerad design tillämpas i en agil och iterativ process för att skapa en tjänst som ger skogsägare en bättre överblick över
+          sin skog, direkt i mobiltelefonen.
         </Text>
         <Button onClick={goToExamensarbete}>Till examensarbete</Button>
       </Container>
